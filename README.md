@@ -2,7 +2,7 @@
 
 test_project
 
-Learn more at https://github.com/radiasoft/pktest.
+Learn more at https://github.com/mkeilman/pktest.
 
 Documentation: http://pktest.readthedocs.org/en/latest/
 
