@@ -1,8 +1,10 @@
+from pykern.pkdebug import pkdlog
+
 """Says hello
 
 """
 def hw():
-    print("HELLO")
+    pkdlog("HELLO")
 
 
 hw()
