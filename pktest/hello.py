@@ -1,11 +1,11 @@
 from pykern.pkdebug import pkdlog
 
-"""Says hello
-
-"""
 
 
 def hw():
+"""Says hello
+
+"""
     pkdlog("HELLO")
 
 
